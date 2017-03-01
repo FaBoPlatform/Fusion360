@@ -39,3 +39,7 @@
 ![](/img/hello014.png)
 
 ![](/img/hello015.png)
+
+## 3D Printerで印刷
+
+STL形式で保存したデータを3D Printerに渡し、印刷する。
