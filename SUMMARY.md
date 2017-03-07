@@ -10,7 +10,8 @@
 	* [コップを作成する(シェル)](/dev/cup_shell.md)
 	* [コップを作成する(スプライン)](/dev/cup_sprine.md)
 * PiCameraのケース作成
-	* [PiCameraV2ケース](/dev/picamera.md)
+	* [PiCameraV2ケース(中身)](/dev/picamera1.md)
+	* [PiCameraV2ケース(外枠)](/dev/picamera2.md)
 * 成形
 	* [成形](/dev/moldering.md)
 * 樹脂型の作成
