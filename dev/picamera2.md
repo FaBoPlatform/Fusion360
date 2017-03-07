@@ -2,9 +2,9 @@
 
 ## ケース本体
 
-![](/img/dev/pi/case000.jpeg)
+![](/img/case000.jpeg)
 
-![](/img/dev/pi/case001.jpeg)
+![](/img/case001.jpeg)
 
 |長さ/幅/高さ|サイズ|
 |:--|:--|
@@ -18,23 +18,23 @@
 |y| -7.5mm |
 |z| 5.75mm|
 
-![](/img/dev/pi/case101.jpeg)
+![](/img/case101.png)
 
-![](/img/dev/pi/case102.jpeg)
+![](/img/case102.png)
 
-![](/img/dev/pi/case103.jpeg)
+![](/img/case103.png)
 
-![](/img/dev/pi/case104.jpeg)
+![](/img/case104.png)
 
-![](/img/dev/pi/case105.jpeg)
+![](/img/case105.png)
 
-![](/img/dev/pi/case106.jpeg)
+![](/img/case106.png)
 
-![](/img/dev/pi/case107.jpeg)
+![](/img/case107.png)
 
-![](/img/dev/pi/case108.jpeg)
+![](/img/case108.png)
 
-![](/img/dev/pi/case109.jpeg)
+![](/img/case109.png)
 
-![](/img/dev/pi/case110.jpeg)
+![](/img/case110.png)
 
