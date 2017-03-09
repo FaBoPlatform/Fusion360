@@ -36,7 +36,6 @@
 
 ![](/img/pi107.png)
 
-![](/img/pi108.png)
 
 ## カメラのレンズ
 
@@ -53,8 +52,8 @@
 |xyz|場所|
 |:--|:--|
 |x| 10.50mm |
-|y| 0.0mm |
-|z| -12.25mm|
+|y| 12.75mm |
+|z| 0.0mm |
 
 ![](/img/pi201.png)
 
@@ -71,24 +70,6 @@
 ![](/img/pi207.png)
 
 ![](/img/pi208.png)
-
-![](/img/pi209.png)
-
-![](/img/pi210.png)
-
-![](/img/pi211.png)
-
-![](/img/pi212.png)
-
-![](/img/pi213.png)
-
-![](/img/pi214.png)
-
-![](/img/pi215.png)
-
-![](/img/pi216.png)
-
-![](/img/pi217.png)
 
 ## ソケットの土台
 
